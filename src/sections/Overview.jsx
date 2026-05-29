@@ -12,7 +12,7 @@ const Overview = () => {
           <ScrollReveal direction="left">
             <div className="relative flex justify-center lg:justify-start order-2 lg:order-1">
               
-              <div className="w-full max-w-lg rounded-xl overflow-hidden bg-[#1E1E1E] shadow-2xl border border-gray-700/50 hover:scale-105 transition-transform duration-700">
+              <div className="w-[calc(100vw-3rem)] md:w-full max-w-lg rounded-xl overflow-hidden bg-[#1E1E1E] shadow-2xl border border-gray-700/50 hover:scale-105 transition-transform duration-700">
                 
                 <div className="bg-[#2D2D2D] px-4 py-3 flex items-center gap-2 border-b border-gray-700/50">
                   <div className="w-3 h-3 rounded-full bg-[#FF5F56]"></div>
